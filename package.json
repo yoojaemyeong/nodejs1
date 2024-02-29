@@ -1,0 +1,22 @@
+{
+  "name": "@yoojaemyeong/nodejs1",
+  "version": "1.0.0",
+  "description": "jmyoo-utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoojaemyeong/nodejs1.git"
+  },
+  "keywords": [
+    "jmyoo"
+  ],
+  "author": "jmyoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoojaemyeong/nodejs1/issues"
+  },
+  "homepage": "https://github.com/yoojaemyeong/nodejs1#readme"
+}

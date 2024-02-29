@@ -13,6 +13,9 @@
   "keywords": [
     "jmyoo"
   ],
+  "publishConfig": {
+	  "@yoojaemyeong:registry": "https://npm.pkg.github.com"
+  },
   "author": "jmyoo",
   "license": "ISC",
   "bugs": {
